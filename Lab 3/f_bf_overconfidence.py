@@ -25,9 +25,8 @@ def f_bf_overconfidence(file):
     """
     
     
-    df=f_datosent.f_datosent(df_datos) #archivo
-    #file_type = df_datos[-4:]
-    file_type = df
+    df=f_datosent.f_datosent(file) #archivo
+    file_type = file[-4:]
     
     
     if file_type == 'json': ## función sí los datos vienen en formato json
