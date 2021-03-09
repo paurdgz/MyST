@@ -1,0 +1,38 @@
+﻿iShares North American Tech-Multimedia Networking ETF,,,,,,,,,,,,,,,
+Inception Date,"Jul 10, 2001",,,,,,,,,,,,,,
+Fund Holdings as of,"Oct 31, 2017",,,,,,,,,,,,,,
+Total Net Assets,"62,670,486.66",,,,,,,,,,,,,,
+Shares Outstanding,"1,350,000.00",,,,,,,,,,,,,,
+Stock,-,,,,,,,,,,,,,,
+Bond,-,,,,,,,,,,,,,,
+Cash,-,,,,,,,,,,,,,,
+Other,-,,,,,,,,,,,,,,
+ ,,,,,,,,,,,,,,,
+Ticker,Name,Asset Class,Weight (%),Price,Shares,Market Value,Notional Value,Sector,SEDOL,ISIN,Exchange,Location,Currency,Market Currency,FX Rate
+HRS,HARRIS CORP,Equity,9.36,139.32,"42,117.00","5,867,740.44","5,867,740.44",Information Technology,2412001,US4138751056,New York Stock Exchange Inc.,United States,USD,USD,1
+CSCO,CISCO SYSTEMS INC,Equity,8.85,34.15,"162,380.00","5,545,277.00","5,545,277.00",Information Technology,2198163,US17275R1023,NASDAQ,United States,USD,USD,1
+MSI,MOTOROLA SOLUTIONS INC,Equity,8.63,90.54,"59,724.00","5,407,410.96","5,407,410.96",Information Technology,B5BKPQ4,US6200763075,New York Stock Exchange Inc.,United States,USD,USD,1
+PANW,PALO ALTO NETWORKS INC,Equity,8.43,147.2,"35,897.00","5,284,038.40","5,284,038.40",Information Technology,B87ZMX0,US6974351057,New York Stock Exchange Inc.,United States,USD,USD,1
+JNPR,JUNIPER NETWORKS INC,Equity,7.56,24.83,"190,864.00","4,739,153.12","4,739,153.12",Information Technology,2431846,US48203R1041,New York Stock Exchange Inc.,United States,USD,USD,1
+ANET,ARISTA NETWORKS INC,Equity,5.01,199.89,"15,723.00","3,142,870.47","3,142,870.47",Information Technology,BN33VM5,US0404131064,New York Stock Exchange Inc.,United States,USD,USD,1
+ARRS,ARRIS INTERNATIONAL PLC,Equity,4.68,28.5,"102,912.00","2,932,992.00","2,932,992.00",Information Technology,BZ04Y37,GB00BZ04Y379,NASDAQ,United States,USD,USD,1
+FFIV,F5 NETWORKS INC,Equity,4.57,121.27,"23,606.00","2,862,699.62","2,862,699.62",Information Technology,2427599,US3156161024,NASDAQ,United States,USD,USD,1
+LITE,LUMENTUM HOLDINGS INC,Equity,4.3,63.15,"42,656.00","2,693,726.40","2,693,726.40",Information Technology,BYM9ZP2,US55024U1097,NASDAQ,United States,USD,USD,1
+COMM,COMMSCOPE HOLDING INC,Equity,4.24,32.14,"82,710.00","2,658,299.40","2,658,299.40",Information Technology,BFRBX34,US20337X1090,NASDAQ,United States,USD,USD,1
+BRCD,BROCADE COMMUNICATIONS SYSTEMS INC,Equity,4.11,11.65,"220,895.00","2,573,426.75","2,573,426.75",Information Technology,2422174,US1116213067,NASDAQ,United States,USD,USD,1
+VSAT,VIASAT INC,Equity,3.89,65.1,"37,436.00","2,437,083.60","2,437,083.60",Information Technology,2946243,US92552V1008,NASDAQ,United States,USD,USD,1
+CIEN,CIENA CORP,Equity,3.34,21.27,"98,368.00","2,092,287.36","2,092,287.36",Information Technology,B1FLZ21,US1717793095,New York Stock Exchange Inc.,United States,USD,USD,1
+SATS,ECHOSTAR CORP CLASS A,Equity,2.97,55.95,"33,279.00","1,861,960.05","1,861,960.05",Information Technology,B2NC471,US2787681061,NASDAQ,United States,USD,USD,1
+FNSR,FINISAR CORP,Equity,2.97,23.54,"78,997.00","1,859,589.38","1,859,589.38",Information Technology,2517832,US31787A5074,NASDAQ,United States,USD,USD,1
+IDCC,INTERDIGITAL INC,Equity,2.82,73.35,"24,085.00","1,766,634.75","1,766,634.75",Information Technology,2465737,US45867G1013,NASDAQ,United States,USD,USD,1
+NTCT,NETSCOUT SYSTEMS INC,Equity,2.82,28.4,"62,127.00","1,764,406.80","1,764,406.80",Information Technology,2447285,US64115T1043,NASDAQ,United States,USD,USD,1
+VIAV,VIAVI SOLUTIONS INC,Equity,2.34,9.28,"157,888.00","1,465,200.64","1,465,200.64",Information Technology,BYXB201,US9255501051,NASDAQ,United States,USD,USD,1
+PLT,PLANTRONICS INC,Equity,1.69,45.36,"23,318.00","1,057,704.48","1,057,704.48",Information Technology,2692030,US7274931085,New York Stock Exchange Inc.,United States,USD,USD,1
+NTGR,NETGEAR INC,Equity,1.63,46.65,"21,930.00","1,023,034.50","1,023,034.50",Information Technology,2688363,US64111Q1040,NASDAQ,United States,USD,USD,1
+UBNT,UBIQUITI NETWORKS INC,Equity,1.6,62.18,"16,152.00","1,004,331.36","1,004,331.36",Information Technology,B76VD62,US90347A1007,NASDAQ,United States,USD,USD,1
+OCLR,OCLARO INC,Equity,1.54,8.27,"117,029.00","967,829.83","967,829.83",Information Technology,B01W5C1,US67555N2062,NASDAQ,United States,USD,USD,1
+INFN,INFINERA CORP,Equity,1.37,8.37,"102,825.00","860,645.25","860,645.25",Information Technology,B1YB5Y4,US45667G1031,NASDAQ,United States,USD,USD,1
+ADTN,ADTRAN INC,Equity,1.12,21.1,"33,186.00","700,224.60","700,224.60",Information Technology,2052924,US00738A1060,NASDAQ,United States,USD,USD,1
+BLKFDS,BLK CSH FND TREASURY SL AGENCY,Money Market,0.18,1,"113,244.00","113,244.15","113,244.15",Cash and/or Derivatives,-,US0669224778,-,United States,USD,USD,1
+USD,USD CASH,Cash,-0.02,100,"-9,971.00","-9,971.47","-9,971.47",Cash and/or Derivatives,-,-,-,United States,USD,USD,1
+ ,,,,,,,,,,,,,,,
